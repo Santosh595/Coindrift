@@ -1,6 +1,5 @@
-Gotcha! Here's your complete `README.md` in **one single section** — no collapses, no breaks — just clean, copy-pasteable markdown content:
 
----
+
 
 ```markdown
 # 🚀 Coindrift – Modern Crypto Tracking App
