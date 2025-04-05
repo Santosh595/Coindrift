@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Live Demo
-Coming soon... 
+https://coindrift.netlify.app/ 
 
 ---
 
